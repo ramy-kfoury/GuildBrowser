@@ -22,4 +22,5 @@ typedef void (^ErrorBlock)(NSError *error);
                  success:(CharacterBlock)successBlock
                    error:(ErrorBlock)errorBlock;
 
+
 @end
